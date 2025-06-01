@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Sampel Html 1</title>
+    <meta charset="UTF-8">
+  </head>
+  <body style="background-color: green;">
+    <center>
+      <h1 style="color: blue; background-color: yellow;">Sampel Html 1</h1>
+    </center>
+    <center>
+      <p style="color: white;"><b>Ini adalah contoh sampel web html pertama.</b></p>
+    </center>
+    <br>
+    <center>
+      <video width="90%" height="90%" src="https://ik.imagekit.io/FoltyzTheRobloxDev/Gedagedigeda%20geda%20do.mp4?updatedAt=1748738048129" controls loop allowfullscreen="true" style="border: 5px solid black;"></video>
+    </center>
+  </body>
+</html>
